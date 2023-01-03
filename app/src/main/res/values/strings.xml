@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_name">Jane Doe</string>
+    <string name="user_contact">janedoe@email.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_accounts">Accounts</string>
+    <string name="menu_credits">Credits</string>
+    <string name="menu_products">Available Products</string>
+
+    <string name="account_status_active">Active</string>
+    <string name="account_status_inactive">Inactive</string>
+</resources>
